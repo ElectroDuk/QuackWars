@@ -1,0 +1,11 @@
+"Gamemode_Name_Here"
+{
+	"base"		"base"
+	"title"		"Basewars"
+	"maps"		"RP_Bangclaw"
+	"menusystem"	"1"
+	"settings"
+	{
+
+	}
+}
